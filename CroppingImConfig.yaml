@@ -1,0 +1,10 @@
+#Paths for input image and output image (nii)
+#Whether it is DICOM/IMA or nii needs to be specified in CroppingIm.py
+paths:
+  input_path: "path_to_input_file"
+  output_path: "path_to_output_folder"
+
+#Settings for the specific image series
+settings:
+  center_coordinates: #[x, y, z] (int)
+  crop_size: #[delta x, delta y, delta z] (int) 

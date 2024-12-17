@@ -1,0 +1,6 @@
+
+
+paths: 
+  input_path: "path_to_input_file"
+
+#Output is only displayed to terminal, no need for output folder
